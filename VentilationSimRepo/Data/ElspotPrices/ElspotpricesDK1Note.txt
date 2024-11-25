@@ -1,4 +1,0 @@
-Elsport prices for DK1 for 1.1.2019-18.9.2024
-Prices are in DKK/EUR per MWh
-Exportet from Energy Data Service (https://www.energidataservice.dk/tso-electricity/Elspotprices) provided by Energinet
-Exportet 18.9.2024
