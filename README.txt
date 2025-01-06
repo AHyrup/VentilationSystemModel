@@ -1,4 +1,4 @@
-This repository contains a ventilation system model and data for simulation of OU44 (university building in Odense, Denmark). Use of the model with this data is showcased in the article: [comming soon...]
+This repository contains a ventilation system model and data for simulation of OU44 (university building in Odense, Denmark). Use of the model with this data is showcased in this article: https://doi.org/10.3390/app15010451
 
 To run a simulation for OU44:
 1. Ensure you have python and the libraries listed below installed.
